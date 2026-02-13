@@ -76,6 +76,10 @@ The system separates NLP, business logic, and UI to ensure scalability, maintain
 
 ---
 
+# Current version is stable and feature-complete.
+
+---
+
 ## 👤 Author
 
 **Hrishikesh Ganji**
