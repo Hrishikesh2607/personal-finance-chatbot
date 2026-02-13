@@ -57,7 +57,8 @@ The system separates NLP, business logic, and UI to ensure scalability, maintain
    ```bash
    streamlit run ui/streamlit_app.py
 
-[Run](tests/Screenshot%202026-02-13%20224224.png)
+![Run](tests/Screenshot%202026-02-13%20224224.png)
+
 ---
 
 ## 🔐 Data & Security
