@@ -49,24 +49,25 @@ The system separates NLP, business logic, and UI to ensure scalability, maintain
 3. Start Flask backend
    ```bash
    python backend/app.py
-5. Start Rasa server
+4. Start Rasa server
     ```bash
    rasa run --enable-api
    rasa run actions
-7. Start Streamlit UI
+5. Start Streamlit UI
    ```bash
    streamlit run ui/streamlit_app.py
-   
+
+[Run](
 ---
 
-🔐 Data & Security
+## 🔐 Data & Security
 - Uses synthetic financial data
 - No real bank credentials
 - Input validation & error handling implemented
 
 ---
 
-📌 Future Enhancements
+## 📌 Future Enhancements
 - Spending prediction
 - Email alerts
 - Multi-user support
@@ -74,8 +75,9 @@ The system separates NLP, business logic, and UI to ensure scalability, maintain
 
 ---
 
-👤 Author
+## 👤 Author
 
-Hrishikesh Ganji
+**Hrishikesh Ganji**
+
 
 
